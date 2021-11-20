@@ -1,0 +1,4 @@
+# ignore truffle config
+node_modules/
+.secret
+.htaccess
